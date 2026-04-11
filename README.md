@@ -7,6 +7,8 @@ Was originally going to basically make Youtube into a song player for a random l
 
 
 ## Usage
-*) Make a .txt file in the playMe directory
-*) Change the config.cfg file's SONG_FILE to the name of your song
-*) Run ./playMe.sh
+* Make a .txt file in the playMe directory
+
+* Change the config.cfg file's SONG_FILE to the name of your song
+
+* Run ./playMe.sh
