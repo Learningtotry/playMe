@@ -70,7 +70,10 @@ fi
 
 counter=0
 
-# 4. Main Loop
+mkdir -p /tmp/ff_profile
+
+
+
 while true; do
     # Calculate random line number
     randomNum=$(( ($RANDOM % numSongsInList) + 1 ))
